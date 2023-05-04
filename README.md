@@ -6,7 +6,7 @@
   </div>
   
   <p>Data Engineering Project Using GCP & MageAI </p>
-    <a href="https://lookerstudio.google.com/reporting/b8f8cf96-51a8-4987-9690-b26a063bf3e6" target="_blank">Dashboard</a>
+    <a href="https://bit.ly/nyctaxi-dashboard" target="_blank">Dashboard</a>
     ·
     <a href="https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page" target="_blank">Data</a>
     ·
@@ -51,6 +51,6 @@ More info about dataset can be found here :
 ## 📨 Contact Me
 
 [LinkedIn](https://www.linkedin.com/in/hamza-elbelghiti/) •
-[Github](https://github.com/Hamagistral) •
+[Website](https://hamagistral.me) •
 [Gmail](hamza.lbelghiti@gmail.com)
 
