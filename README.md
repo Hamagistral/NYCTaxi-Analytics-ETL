@@ -7,9 +7,9 @@
   
   <p>Data Engineering Project Using GCP & MageAI </p>
     <a href="https://bit.ly/nyctaxi-dashboard" target="_blank">Dashboard</a>
-    ·
+    🌀
     <a href="https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page" target="_blank">Data</a>
-    ·
+    ☄️
     <a href="https://github.com/Hamagistral/NYCTaxi-Analytics-ETL/issues" target="_blank">Request Feature</a>
 </div>
 
