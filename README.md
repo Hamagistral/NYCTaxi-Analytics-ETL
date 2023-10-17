@@ -1,4 +1,8 @@
 <div align="center">
+  <a href="https://lookerstudio.google.com/reporting/da5da0af-4be0-4f7d-a84b-f7c2892df612">
+    <img src="https://github.com/Hamagistral/NYCTaxi-Analytics-ETL/assets/66017329/6eba1fec-38f2-41c4-a363-967ac124c531" alt="Banner" width="720">
+  </a>
+  
   <div id="user-content-toc">
     <ul>
       <summary><h1 style="display: inline-block;">🚕 NYC Taxi Trip Records Data Analysis</h1></summary>
@@ -21,11 +25,32 @@ The goal of this project is to perform data analytics on NYC Taxi Trip Records u
 
 Yellow trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) by technology providers authorized under the Taxicab & Livery Passenger Enhancement Programs (TPEP/LPEP). 
 
-More info about dataset can be found here :
+More info about the dataset can be found here :
 
 1. Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
+## 📊 Dashboard
+
+![image](https://github.com/Hamagistral/NYCTaxi-Analytics-ETL/assets/66017329/097f773a-5290-4b59-9e7d-ad902bac5365)
+![image](https://github.com/Hamagistral/OnlineRetail-DataEng/assets/66017329/82fbafbe-102c-4d45-a733-b14d4b3766f5)
+
+## 🕵️ Key Insights
+
+- 🧳 **Total Trips**
+  - "VeriFone Inc" is the provider with the most number of trips with over 88k trips and "Creative Mobile Technologies" with only 11k trips.
+ 
+- 💳 **Top Payment Types**
+  - **N°1:** Credit Card with 66%
+  - **N°2:** Cash with 33%
+
+- 👨‍👩‍👧‍👧 **Number of passengers by trip**
+  - 65% of the trips have only 1 passenger.
+  - 13% have 2 passengers.
+  - 8% have 5 passengers.
+
+- 💵 **Common Rate Code**
+  - The most common final rate code in effect at the end of the trip is the "Standard rate" with over 97%, followed by JFK with 2.2%, Negotiated fare etc. with less than 1%
 
 ## 🛠️ Technologies Used
 
