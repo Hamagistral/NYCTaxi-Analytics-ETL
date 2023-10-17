@@ -32,7 +32,7 @@ More info about the dataset can be found here :
 
 ## 📊 Dashboard
 
-![image](https://github.com/Hamagistral/NYCTaxi-Analytics-ETL/assets/66017329/097f773a-5290-4b59-9e7d-ad902bac5365)
+![image](https://github.com/Hamagistral/NYCTaxi-Analytics-ETL/assets/66017329/6eba1fec-38f2-41c4-a363-967ac124c531)
 ![image](https://github.com/Hamagistral/OnlineRetail-DataEng/assets/66017329/82fbafbe-102c-4d45-a733-b14d4b3766f5)
 
 ## 🕵️ Key Insights
