@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://lookerstudio.google.com/reporting/da5da0af-4be0-4f7d-a84b-f7c2892df612">
+  <a href="https://lookerstudio.google.com/u/0/reporting/b8f8cf96-51a8-4987-9690-b26a063bf3e6/page/uk1OD">
     <img src="https://github.com/Hamagistral/NYCTaxi-Analytics-ETL/assets/66017329/6eba1fec-38f2-41c4-a363-967ac124c531" alt="Banner" width="720">
   </a>
   
